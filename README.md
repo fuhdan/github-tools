@@ -44,7 +44,7 @@ gh auth login --scopes "read:packages,delete:packages,repo"
 
 This summary barely scratches the surface! For the **complete guide with all the juicy details, examples, and pro tips**, check out:
 
-### 📚 [**DETAILED DOCUMENTATION →**](DETAILED.md)
+### 📚 [**DETAILED DOCUMENTATION →**](GHCR-CLEANUP-DETAILED.md)
 
 *Warning: Contains excessive amounts of helpful information, terrible jokes, and way too many emojis. Side effects may include actually understanding how the script works and becoming dangerously productive.* ⚠️😂
 
