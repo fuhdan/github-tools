@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # GitHub Container Registry (GHCR) Image Cleanup Script
 # Deletes old Docker images from GitHub Container Registry
 
